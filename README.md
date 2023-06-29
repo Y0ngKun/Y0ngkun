@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 </div>
 
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y0ngkun&langs_count=10&layout=compact&theme=white)](https://github.com/y0ngkun/y0ngkun)﻿
