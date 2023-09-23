@@ -1,6 +1,6 @@
 <div align=center>
-  <Strong> 👋 👋</Strong>
-  <br />
+
+
 </div>
 
 <!--
